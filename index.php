@@ -56,7 +56,7 @@ include('./functions/common_function.php');
                                                         <a class="nav-link" href="#"><i class="fa-sharp fa-solid fa-cart-shopping"></i><sup>1<sup></a>
                                                 </li>
                                                 <li class="nav-item">
-                                                        <a class="nav-link" href="#">Total Price:100</a>
+                                                        <a class="nav-link" href="#">Total Price:</a>
                                                 </li>
 
                                         </ul>
